@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915731725248",
+    "project_id": "tatlitarif-67ee2",
+    "storage_bucket": "tatlitarif-67ee2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915731725248:android:e0f7e77f52c2886d72e625",
+        "android_client_info": {
+          "package_name": "com.example.tatltarifleri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS5VGRb-W7L4Va5Wzk2mULZVeqwX1-GV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

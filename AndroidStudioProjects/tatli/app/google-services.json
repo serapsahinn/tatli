@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014940281037",
+    "project_id": "tatli-ea08d",
+    "storage_bucket": "tatli-ea08d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014940281037:android:46f3600e8979407a9be184",
+        "android_client_info": {
+          "package_name": "com.example.tatli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUV-e2vrrhrh4j-wMEEW8323G0IyLJybA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
